@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+    <!--<h1 align="center">Hi! I'm Dani 👋 but you can call me for production deploy ⚡</h1>-->
+    <h1 align="center">Hi! I'm Dani 👋</h1>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnppejlvbjF1enh0Mnl1M3h2NnNpemQ3a3V4d3QwbWN3cHVybjExcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif">
+</div>
+
+## About me
 
 <!--
 **dsantos1998/dsantos1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
