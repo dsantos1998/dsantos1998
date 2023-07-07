@@ -22,9 +22,9 @@
 
 - :envelope_with_arrow: How to reach me **danielsantosmundina2@gmail.com**
 
-
-
 <!-- - :globe_with_meridians: Website [Portfolio](https://www.google.com) -->
+
+---
 
 ### :gear: Languages and Tools:
 <div>
@@ -35,20 +35,15 @@
 
 ### :bar_chart: My Stats:
 
-
-
-
-<!--
-**dsantos1998/dsantos1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/dsantos1998">
+    <img height=200 align="center" src="https://streak-stats.demolab.com?user=dsantos1998&theme=holi-theme&date_format=j%20M%5B%20Y%5D&card_width=490&background=63%2C00121A%2C002739" />
+</a>
+<!-- <a href="https://github.com/dsantos1998">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dsantos1998&show_icons=true&theme=radical" />
+</a> -->
+<!-- <a href="https://github.com/dsantos1998">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsantos1998&layout=compact" />
+</a> -->
+<!-- <a href="https://github.com/dsantos1998">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dsantos1998" />
+</a> -->
