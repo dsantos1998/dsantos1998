@@ -14,15 +14,17 @@
 
 ### :robot: About Me:
 
-- :keyboard: I develop some own project when I have free time. Some are private, if you want to know more about them contact me by mail. I will be happy to serve you.
+- :briefcase: I work as a backend developer
 
-- :right_anger_bubble: Ask me about **.NET Core, C#, API REST, Transact-SQL**
+- :keyboard: I develop some own project when I have free time. Some are private, if you want to know more about them contact me by e-mail. I will be happy to serve you
+
+<!-- - :exploding_head: I'm currently working on a own development that write automatic documentation for API REST projects -->
 
 - :envelope_with_arrow: How to reach me **danielsantosmundina2@gmail.com**
 
-- :exploding_head: I'm currently working on a own development that write automatic documentation for API REST projects.
 
-- :globe_with_meridians: Website [www.google.com](Porfolio)
+
+<!-- - :globe_with_meridians: Website [Portfolio](https://www.google.com) -->
 
 ### :gear: Languages and Tools:
 <div>
