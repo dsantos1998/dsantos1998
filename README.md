@@ -28,7 +28,17 @@
 
 ### :gear: Languages and Tools:
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C-Sharp" alt="C-Sharp" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Boostrap" alt="Boostrap" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50">
 </div>
 
 ---
