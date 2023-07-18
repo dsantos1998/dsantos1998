@@ -53,6 +53,7 @@
 <!-- <a href="https://github.com/dsantos1998">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dsantos1998&show_icons=true&theme=radical" />
 </a> -->
-<a href="https://github.com/dsantos1998">
+<!-- Languages statistics -->
+<!-- <a href="https://github.com/dsantos1998">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsantos1998&layout=donut" />
-</a>
+</a> -->
