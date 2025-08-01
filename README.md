@@ -50,7 +50,7 @@
     <img height=200 align="center" src="https://streak-stats.demolab.com?user=dsantos1998&theme=holi-theme&date_format=j%20M%5B%20Y%5D&card_width=490&background=63%2C00121A%2C002739" />
 </a> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dsantos1998&theme=dark)](https://git.io/streak-stats)
+[![My Statistics]([https://streak-stats.demolab.com?user=dsantos1998&theme=dark](https://streak-stats.demolab.com?user=dsantos1998&theme=holi-theme&date_format=j%20M%5B%20Y%5D&card_width=490&background=63%2C00121A%2C002739))](https://github.com/dsantos1998)
 
 <!-- Commit statistics for this year and more -->
 <!-- <a href="https://github.com/dsantos1998">
